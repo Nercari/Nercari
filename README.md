@@ -13,9 +13,9 @@
 
 | Service | Packages | Showcase | Measured result (2026-10-14) | Live demo | Gig |
 |---|---|---|---|---|---|
-| Custom Claude skill | ONE SKILL / TESTED SKILL / SKILL PACK | [claude-skill-examples](https://github.com/Nercari/claude-skill-examples) | Rule pass rate on the same 5 inputs: **0/5 → 5/5** (`measurements/score.py`) | [pages](https://nercari.github.io/claude-skill-examples/) | [Fiverr](https://www.fiverr.com/nercari/PLACEHOLDER-claude-skill) |
-| Claude Code setup | RULES FILE / SAFE SETUP / FULL TEAM SETUP | [claude-code-setup-example](https://github.com/Nercari/claude-code-setup-example) | **Left .env and migrations untouched** in the test; setup checks **11/11** (`check.py`) | [pages](https://nercari.github.io/claude-code-setup-example/) | [Fiverr](https://www.fiverr.com/nercari/PLACEHOLDER-claude-code-setup) |
-| SEO + GEO + AEO audit | AUDIT / AUDIT + FIXES / AUDIT, FIXES + FAQ | [seo-geo-aeo-audit-demo](https://github.com/Nercari/seo-geo-aeo-audit-demo) | Audit **2/19 → 19/19** (`accept.py`); Lighthouse SEO 92→100, A11y 69→96 | [pages](https://nercari.github.io/seo-geo-aeo-audit-demo/) | [Fiverr](https://www.fiverr.com/nercari/PLACEHOLDER-seo-geo-aeo) |
+| Custom Claude skill | ONE SKILL / TESTED SKILL / SKILL PACK | [claude-skill-examples](https://github.com/Nercari/claude-skill-examples) | Rule pass rate on the same 5 inputs: **0/5 → 5/5** (`measurements/score.py`) | [pages](https://nercari.github.io/claude-skill-examples/) | Fiverr gigs coming soon |
+| Claude Code setup | RULES FILE / SAFE SETUP / FULL TEAM SETUP | [claude-code-setup-example](https://github.com/Nercari/claude-code-setup-example) | **Left .env and migrations untouched** in the test; setup checks **11/11** (`check.py`) | [pages](https://nercari.github.io/claude-code-setup-example/) | Fiverr gigs coming soon |
+| SEO + GEO + AEO audit | AUDIT / AUDIT + FIXES / AUDIT, FIXES + FAQ | [seo-geo-aeo-audit-demo](https://github.com/Nercari/seo-geo-aeo-audit-demo) | Audit **2/19 → 19/19** (`accept.py`); Lighthouse SEO 92→100, A11y 69→96 | [pages](https://nercari.github.io/seo-geo-aeo-audit-demo/) | Fiverr gigs coming soon |
 
 ![Profile strip with three cards: Claude Code setup, custom Claude skill, and SEO GEO AEO audit, each with measured result and fictional sample name.](docs/assets/profile-strip-Nercari.png)
 

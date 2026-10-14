@@ -3,7 +3,6 @@
 ![README banner for Nercari profile with short benefit line and a panel listing the three measured demo results.](docs/assets/banner-Nercari.png)
 
 [![Live demos](https://img.shields.io/badge/live%20demos-nercari.github.io-blue)](https://nercari.github.io/Nercari/)
-[![llms.txt](https://img.shields.io/badge/llms.txt-ready-green)](./llms.txt)
 
 **Claude skills, Claude Code setups and SEO/GEO/AEO audits.** Files delivered, no calls. Every number below can be reproduced from the linked repo.
 

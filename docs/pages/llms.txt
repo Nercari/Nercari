@@ -1,0 +1,1 @@
+# Nercari\n\n> Fictional demos with measured results. Claude skills, Claude Code setups, SEO/GEO/AEO.\n\n## Demos\n\n- https://nercari.github.io/claude-skill-examples/\n- https://nercari.github.io/claude-code-setup-example/\n- https://nercari.github.io/seo-geo-aeo-audit-demo/\n

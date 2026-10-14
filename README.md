@@ -15,11 +15,13 @@ Every showcase below is a **demo** on a fictional business. Every number comes f
 
 ## Fictional names used (unique enough to own their search)
 
-| Demo | Name | Why |
-|---|---|---|
-| SEO/GEO/AEO | **Quillmere Plumbing** (Marlowe Falls, OR) | Replaced "Larkspur Plumbing" / "Larkspur Lane Plumbing" — real businesses already use those |
-| Claude Code | **Shelvanta** | Replaced "TidyShelf" — already a game and a product name |
-| Claude skill | **Velocrank Cycle Works** | Replaced "Spoke & Sprocket" — real bike shops already use that |
+| Demo | Name |
+|---|---|
+| SEO/GEO/AEO | **Quillmere Plumbing** (Marlowe Falls, OR) |
+| Claude Code | **Shelvanta** |
+| Claude skill | **Velocrank Cycle Works** |
+
+Each name was checked to make sure no real business uses it.
 
 ## FAQ
 

@@ -20,7 +20,7 @@
 
 ## How it works
 
-1. Pick the gig and package on Fiverr and send your files or repo.
+1. Pick the gig and package on Fiverr (coming soon) and send your files or repo.
 2. The work is delivered as files (or a pull request), with the checks that prove it.
 3. Each showcase repo shows the same method on a fictional business, with the commands to re-run it.
 
